@@ -56,15 +56,73 @@ public class DataTypes {
         //System.out.println(i + j);
 
 
-        int i = 10;
+//        int i = 10;
+//
+//        int j = i++;
+//
+//        System.out.println(i);
+//
+//        System.out.println(j);
+//
+//        System.out.println(18*3/3/4	);
 
-        int j = i++;
+//        int i = 10;
+//
+//        i = i++;
+//
+//        System.out.println(i);
+//
+//
+//
+//
+//
+//        int j = 10;
+//
+//        j = j++ + j;
+//
+//        System.out.println(j);
 
-        System.out.println(i);
+       /* double db1 = 14.5d;
 
-        System.out.println(j);
+        db1++;
 
-        System.out.println(18*3/3/4	);
+        System.out.println(db1);
+*/
+        int i1 = -10;
+
+        System.out.println(i1);
+
+
+
+        int i2 = 10;
+
+        System.out.println(i2++);
+
+
+
+        int i3 = 10;
+
+        System.out.println(++i3);
+
+
+
+        int i4 = 10;
+
+        System.out.println(i4--);
+
+
+
+        int i5 = 10;
+
+        System.out.println(--i5);
+
+
+
+        int i6 = 10;
+
+        System.out.println(~i6);
+
+
 
 
 
