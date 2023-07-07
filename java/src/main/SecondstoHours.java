@@ -6,10 +6,10 @@ public class SecondstoHours {
 
     public static void main(String[] args)
     {
-        // create object of scanner class.
+
         Scanner in = new Scanner(System.in);
 
-        // enter the seconds here.
+        
         System.out.print("Enter seconds : ");
 
         int seconds = in.nextInt();
